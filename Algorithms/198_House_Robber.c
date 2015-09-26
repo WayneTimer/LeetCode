@@ -1,6 +1,6 @@
 /*
 Time: O(n)
-Space: O(1)
+Space: O(n)
 Runtime: 0ms
 
 Hint: DP.
